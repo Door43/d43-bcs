@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bcs:home|Door43 (bcs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bcs|d43-bcs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bcs/archive/master.zip|d43-bcs.zip]]
+
+**Recent Changes**
+{{changes>ns = bcs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bcs|Ethnologue data]]
+
